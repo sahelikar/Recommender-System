@@ -1,0 +1,12 @@
+---
+title: "Discussion 5"
+author: "Saheli Kar"
+date: "July 14, 2016"
+output: pdf_document
+---
+
+I am providing very common example Facebook that uses network model. In facebook we get suggestion of adding new friends. Most of the time it is very successfull in suggesting a friend that we end up in adding in our fiend list. Also it suggests us to join particlar group that may interest us.
+
+Facebook maintains a very big network that has users as its nodes. All the users are coonected with their freinds using the connectors. Facebook also find mutual friends using those connectors. So it calculates with which friend someone has most number of mutual friends. So it assumes that most of the friends of them may be known. So its suggest friends from ones conncetion. 
+
+Facebook also uses attributes to connect to the nodes and find friends and groups with the attributes. When it find any match for the attributes it recommends that to the user.
